@@ -1,1 +1,1 @@
-# abou-section
+# about-section-animation
